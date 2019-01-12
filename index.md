@@ -1,7 +1,7 @@
 # About 
 About section
 
-(https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
+![](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
 * * *
 # Projects
 Lorem ipsum
