@@ -3,7 +3,7 @@
 
 # About 
 About section
-![alt text][me]
+![me]
 
 [me]: https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg
 
