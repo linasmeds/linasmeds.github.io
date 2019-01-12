@@ -4,7 +4,7 @@
 MSc / PhD Student
 
 ...more info coming up...
-![](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
+![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png)
 
 * * *
 # Projects
