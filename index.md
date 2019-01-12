@@ -1,5 +1,5 @@
 
-**Page under construction - stay tuned!** 
+**Page under construction - stay tuned!** {: .size}
 
 # About 
 MSc / PhD Student
