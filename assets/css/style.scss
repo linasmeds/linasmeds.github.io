@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: #009999;
+  background-image: url(/assets/images/neuron.jpg);
+}
+
+.main-content {
+  h1, h2, h3, h4 {
+    color: #009999;
+  }
+}
