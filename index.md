@@ -1,6 +1,4 @@
 
-Page under construction - stay tuned!
-{: .size .bold}
 
 # About 
 MSc / PhD Student
