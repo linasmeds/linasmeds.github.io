@@ -1,9 +1,10 @@
 
-**Page under construction**
+**Page under construction - stay tuned!**
 
 # About 
-About section
+MSc / PhD Student
 
+...more info coming up...
 ![](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
 
 * * *
