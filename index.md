@@ -4,7 +4,7 @@
 # About 
 About section
 
-![me](DSCF8694bw.jpg)
+![me](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
 
 * * *
 # Projects
