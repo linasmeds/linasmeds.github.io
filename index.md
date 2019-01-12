@@ -12,3 +12,6 @@ Lorem ipsum
 
 # Links
 [Ala-Laurila Lab](http://ala-laurila.biosci.helsinki.fi/#home)
+
+# Blog
+...coming up soon
