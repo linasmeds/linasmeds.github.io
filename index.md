@@ -4,9 +4,8 @@
 # About 
 About section
 
-![me](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
+![](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
 
-![me]
 * * *
 # Projects
 Lorem ipsum
