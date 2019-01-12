@@ -3,8 +3,8 @@
 # About 
 MSc / PhD Student
 
-...more info coming up...
 ![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png)
+{.size}
 
 * * *
 # Projects
@@ -19,5 +19,4 @@ Lorem ipsum
 # Links
 [Ala-Laurila Lab](http://ala-laurila.biosci.helsinki.fi/#home)
 
-# Blog
-...coming up soon
+
