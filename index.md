@@ -3,9 +3,10 @@
 
 # About 
 About section
-![me]
 
-[me]: https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg
+![me](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
+Format: ![Alt Text](https://github.com/linasmeds/linasmeds.github.io/blob/master/assets/images/DSCF8694bw.jpg)
+
 
 * * *
 # Projects
