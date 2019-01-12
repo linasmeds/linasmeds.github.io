@@ -4,7 +4,7 @@
 # About 
 About section
 
-![me](SCF8694bw.jpg)
+![me](DSCF8694bw.jpg)
 
 * * *
 # Projects
