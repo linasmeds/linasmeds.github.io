@@ -4,7 +4,6 @@
 MSc / PhD Student
 
 ![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png)
-{.size}
 
 * * *
 # Projects
