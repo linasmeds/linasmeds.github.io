@@ -3,9 +3,9 @@
 # About 
 PhD student in neuroscience at the University of Helsinki, [Ala-Laurila Lab](http://ala-laurila.biosci.helsinki.fi/#home)  
 Areas of research: retinal circuits, behavior, vision at the sensitivity limit
+{: .left-aligned}
 
-
-![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png){: .callout}
+![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png){: .profile-img}
 
 * * *
 
