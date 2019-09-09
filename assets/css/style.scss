@@ -13,15 +13,17 @@
   h1, h2, h3, h4 {
     color: #009999;
   }
-  
-  /* left-align first paragraph */
-  p:first-child {
-    width: 50%;
-    float: left;
-  }
 }
 
+/* left-align for about-paragraph */
+.left-aligned {
+  width: 60%;
+  float: left;
+}
 
+.profile-img {
+  width: 40%;
+}
 
 .size {
   font-size: 24pt;
