@@ -13,13 +13,15 @@
   h1, h2, h3, h4 {
     color: #009999;
   }
+  
+  /* left-align first paragraph */
+  p:first-child {
+    width: 50%;
+    float: left;
+  }
 }
 
 
-img[alt="https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png"] { 
-  max-width:  20px; 
-  display: block;
-}
 
 .size {
   font-size: 24pt;
@@ -30,5 +32,4 @@ img[alt="https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png"] {
 }
 
 .callout {
-    float: right;
 }
