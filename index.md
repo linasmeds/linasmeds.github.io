@@ -25,6 +25,19 @@ Areas of research: retinal circuits, behavior, vision at the sensitivity limit
 [https://doi.org/10.1098/rstb.2016.0073](https://doi.org/10.1098/rstb.2016.0073)    
 [PDF](http://ala-laurila.biosci.helsinki.fi/content/refs/takeshita_et_al_2017.pdf)
 
+# Media  
+[Studying vision in pitch-darkness shines light on how a mammal’s brain drives behaviour](https://www.aalto.fi/en/news/studying-vision-in-pitch-darkness-shines-light-on-how-a-mammals-brain-drives-behaviour)   
+Aalto University news   
+10.9.2019
+
+[Suomalaiset aivotutkijat kumosivat vanhan peruskäsityksen hermoston toiminnasta](https://www.hs.fi/tiede/art-2000006235484.html)    
+Helsingin Sanomat ("Helsinki times", In Finnish)  
+11.9.2019  
+
+[Instagram video: About my research in the Ala-Laurila lab](https://www.instagram.com/p/BuTrEKfgu2q/?utm_source=ig_share_sheet&igshid=18lmk0nu9q7gr)    
+Uni på svenska (Instagram account representing the bilingual and Swedish parts of the University of Helsinki, In Swedish)  
+25.2.2019
+
 # Links
 [Ala-Laurila Lab](http://ala-laurila.biosci.helsinki.fi/#home)
 
