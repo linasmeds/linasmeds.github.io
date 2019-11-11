@@ -27,6 +27,10 @@ Areas of research: retinal circuits, behavior, vision at the sensitivity limit
 [PDF](http://ala-laurila.biosci.helsinki.fi/content/refs/takeshita_et_al_2017.pdf)
 
 # Media  
+[Valaiseva aivotutkimus](http://ala-laurila.biosci.helsinki.fi/content/media/yo8_valaiseva_aivotutkimus.pdf)  
+Helsingin yliopiston Yliopisto-lehti ("The University of Helsinki magazine", In Finnish)  
+8/2019
+
 [Studying vision in pitch-darkness shines light on how a mammal’s brain drives behaviour](https://www.aalto.fi/en/news/studying-vision-in-pitch-darkness-shines-light-on-how-a-mammals-brain-drives-behaviour)   
 Aalto University news   
 10.9.2019
