@@ -19,7 +19,8 @@ Areas of research: retinal circuits, behavior, vision at the sensitivity limit
 
 # Publications
 * Smeds, L., Takeshita, D., Turunen, T., Tiihonen, J., Westö, J., Martyniuk, N., Seppänen, A., Ala-Laurila P. (2019). **Paradoxical Rules of Spike Train Decoding Revealed at the Sensitivity Limit of Vision**. Neuron 104, 1-12.  
-[https://doi.org/10.1016/j.neuron.2019.08.005](https://doi.org/10.1016/j.neuron.2019.08.005)  
+[Free featured article](https://www.sciencedirect.com/science/article/pii/S0896627319306890?via%3Dihub)  
+[PREVIEW by Qiu & Euler](http://ala-laurila.biosci.helsinki.fi/content/refs/qiu_euler_2019_retinal_circuits_for_seeing_in_the_dark.pdf)
 
 * Takeshita, D., Smeds, L. & Ala-Laurila, P. (2017). **Processing of single-photon responses in the mammalian On and Off retinal pathways at the sensitivity limit of vision**. Philos. Trans. R. Soc. Lond. B Biol. Sci. 372, 20160073.  
 [https://doi.org/10.1098/rstb.2016.0073](https://doi.org/10.1098/rstb.2016.0073)    
