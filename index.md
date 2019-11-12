@@ -10,7 +10,7 @@ Areas of research: retinal circuits, behavior, vision at the sensitivity limit
 # Contact
 {: .left-aligned}
 [Twitter](https://twitter.com/linasmeds)  
-[LinkedIn](www.linkedin.com/in/linasmeds)
+[LinkedIn](https://www.linkedin.com/in/linasmeds/)
 {: .left-aligned}
 
 ![](https://linasmeds.github.io/assets/images/DSCF8694bw_edit1.png){: .profile-img}
